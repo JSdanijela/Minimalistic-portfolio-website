@@ -8,8 +8,8 @@ function Footer() {
         <MDBRow id="Contact">
           <MDBCol md="4 pr-2">
     {/* CONTACT TEXT */}
-            <h2 className="title">Contact</h2>
-            <p>
+            <h2 style={{marginLeft:15}} className="title">Contact</h2>
+            <p style={{marginLeft:15}}>
               Feel free to contact me, and make sure to follow me on all my social media accounts.
             </p>
           </MDBCol>
